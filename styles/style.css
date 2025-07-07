@@ -27,30 +27,30 @@ html {
 }
 
 .header {
-  height: 35px;
-  text-align: left;
-  white-space: nowrap;
-  font-size: 0;
-  margin-bottom: 37px;
+    height: 35px;
+    text-align: left;
+    white-space: nowrap;
+    font-size: 0;
+    margin-bottom: 37px;
 }
 
 .title-wrapper,
 .img-wrapper {
-  display: inline-block;
-  vertical-align: middle;
-  font-size: 21px;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 21px;
 }
 
 .title {
-  margin: 0;
-  color: #fff;
-  font-size: 21px;
-  font-weight: 400;
+    margin: 0;
+    color: #fff;
+    font-size: 21px;
+    font-weight: 400;
 }
 
 .img-wrapper img {
-  height: 35px;
-  margin-left: 14px;
+    height: 35px;
+    margin-left: 14px;
 }
 
 .list {
@@ -176,7 +176,7 @@ h4 {
 }
 
 .list .item h2 {
-  font-size: 22px;
+    font-size: 22px;
 }
 
 .item-block {
@@ -194,29 +194,29 @@ img {
 }
 
 .item-block {
-  height: 35px;
-  text-align: left;
-  white-space: nowrap;
-  font-size: 0;
+    height: 35px;
+    text-align: left;
+    white-space: nowrap;
+    font-size: 0;
 }
 
 .item-block-left,
 .item-block-right {
-  display: inline-block;
-  vertical-align: middle;
-  font-size: 21px;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 21px;
 }
 
 .item-block-left h2 {
-  margin: 0;
-  color: #fff;
-  font-size: 21px;
-  font-weight: 400;
+    margin: 0;
+    color: #fff;
+    font-size: 21px;
+    font-weight: 400;
 }
 
 .item-block-right img {
-  height: 35px;
-  margin-left: 14px;
+    height: 35px;
+    margin-left: 14px;
 }
 
 .item {
@@ -232,19 +232,10 @@ img {
     height: 100%;
     background: #ffffff56;
     opacity: 1;
-    transition:  all .2s ease-in;
+    transition: all .2s ease-in;
     pointer-events: auto;
 }
 
 .item:hover .modal {
     opacity: 0;
 }
-
-
-
-
-
-
-
-
-
